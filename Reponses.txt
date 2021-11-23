@@ -1,1 +1,9 @@
-a
+4.2.1.2. Comparaison de deux instances d'Animal
+En comparant deux animaux avec ==, on obtient false car ces objets n'ont pas la meme adresse en mémoire
+En les comparant avec la méthode .equals crée , on obtient true car ils ont le meme age, sexe et état
+
+6.3.3. Classe de test
+1) principe d'encapsulation
+
+6.3.4. Animal et Agent
+1) 
