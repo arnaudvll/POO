@@ -7,3 +7,6 @@ En les comparant avec la méthode .equals crée , on obtient true car ils ont le
 
 6.3.4. Animal et Agent
 1) 
+
+8.3. Compléter le projet avec votre existant
+1) elle est finale car une fois q'un animal a un hebergeur
