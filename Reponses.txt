@@ -10,3 +10,8 @@ En les comparant avec la méthode .equals crée , on obtient true car ils ont le
 
 8.3. Compléter le projet avec votre existant
 1) elle est finale car une fois q'un animal a un hebergeur
+
+
+10.1.1. prise en main
+1)colletion type SET, bien car ne peut contenir de doublons
+2)méthode generateAgents 
